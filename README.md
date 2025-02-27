@@ -12,19 +12,19 @@
 
    ## Screenshots  
 Below are some previews of *Eletro Store* in action:  
-![Splash Screen](screenshots/splah.png) 
-![Login Screen](screenshots/login.png) 
-![Register Screen](screenshots/register.png)
-![Home Screen](screenshots/home.png)    
-![Store Screen](screenshots/shop.png)  
-![Cart Screen](screenshots/cart.png) 
-![Profile Screen](screenshots/perfil.png)
-![Support Screen](screenshots/suport.png) 
-![Detail Screen](screenshots/detail.png) 
-![Notifivation Screen](screenshots/not.png) 
-![checkout Screen](screenshots/check.png) 
-![Sucess Screen](screenshots/sucess.png) 
-![Store Screen](screenshots/shop.png) 
+![Splash Screen](screenshots/splah.jpg) 
+![Login Screen](screenshots/login.jpg) 
+![Register Screen](screenshots/register.jpg)
+![Home Screen](screenshots/home.jpg)    
+![Store Screen](screenshots/shop.jpg)  
+![Cart Screen](screenshots/cart.jpg) 
+![Profile Screen](screenshots/perfil.jpg)
+![Support Screen](screenshots/suport.jpg) 
+![Detail Screen](screenshots/detail.jpg) 
+![Notifivation Screen](screenshots/not.jpg) 
+![checkout Screen](screenshots/check.jpg) 
+![Sucess Screen](screenshots/sucess.jpg) 
+![Store Screen](screenshots/shop.jpg) 
 
 ## Technical Details  
 - **Framework**: Flutter 3.6.2+  
