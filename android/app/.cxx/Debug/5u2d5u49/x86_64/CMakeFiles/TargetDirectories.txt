@@ -1,0 +1,2 @@
+C:/Users/seniama alexandre/Desktop/templete ecomrce x/templete_02/android/app/.cxx/Debug/5u2d5u49/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/seniama alexandre/Desktop/templete ecomrce x/templete_02/android/app/.cxx/Debug/5u2d5u49/x86_64/CMakeFiles/rebuild_cache.dir
