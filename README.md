@@ -22,6 +22,7 @@ Below are some previews of *Eletro Store* in action:
 ![Support Screen](screenshots/suport.jpg) 
 ![Detail Screen](screenshots/detail.jpg) 
 ![Notifivation Screen](screenshots/not.jpg) 
+![Arquivo](screenshots/o.jpg).
 ![checkout Screen](screenshots/check.jpg) 
 ![Sucess Screen](screenshots/sucess.jpg) 
 ![Store Screen](screenshots/shop.jpg) 
